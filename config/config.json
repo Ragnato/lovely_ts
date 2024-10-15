@@ -1,0 +1,11 @@
+{
+  "database": {
+    "driver": "bridge",
+    "host": "<IP HERE>",
+    "port": "<PORT HERE>",
+    "user": "lovely_stay",
+    "password": "lovely",
+    "database_name": "lovely_stay"
+  },
+  "github_token": "<GITHUB TOKEN HERE>"
+}
